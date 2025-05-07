@@ -18,7 +18,9 @@ When printing the models at the default size the neodymium magnets should be 10x
 
 The <a href="STL">STL folder</a> contains the required files for each component.
 When slicing the models it is recommended to print them individually using variable layer height.
-You can print the spheres on any of their flat sides. For the double/triple bond it is recommended to print them on the flat side as well for better results.
+The spheres should be placed on any of their flat sides, taking precautions to avoid warping.
+The lids will have a smoother surface if printed vertically, with supports enabled.
+For the double/triple bond it is recommended to print them on the flat side for better results.
 
 | Element  | Color | Magnets | Parts |
 | -------- | ----- | ------- | ----- |
