@@ -16,7 +16,7 @@ When printing the models at the default size the neodymium magnets should be 10x
 
 **[ STL Files ]**
 
-The STL folder contains the required files for each component:
+The <a href="STL"> STL folder </a> contains the required files for each component:
 
 | Element  | Color | Magnets | Parts |
 | -------- | ----- | ------- | ----- |
