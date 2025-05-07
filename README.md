@@ -6,7 +6,7 @@ STL files for magnetic atoms educational resource
 The included STL files contain all the parts you have to print.
 For each atom you will have to print the sphere and the lids in the corresponding color (see table below for more details).
 Before placing the lid on the spheres you have to insert the proper magnet.
-The double and triple bonds are printed in two halves and goined together by two connecting cylinders, if it is a bit loose you can adjust the fit using some paper in between.
+The double and triple bonds are printed in two halves and joined together by two connecting cylinders, if it is a bit loose you can adjust the fit using some paper in between.
 
 **[ Magnet Type ]**
 
