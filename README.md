@@ -3,20 +3,20 @@ STL files for magnetic atoms educational resource
 
 <img src="img/AtomicModel.jpg" width="500">
 
-The included STL files contain all the parts you have to print.
-For each atom you will have to print the sphere and the lids in the corresponding color (see table below for more details).
-Before placing the lid on the spheres you have to insert the proper magnet.
-The double and triple bonds are printed in two halves and joined together by two connecting cylinders, if it is a bit loose you can adjust the fit using some paper in between.
+The included STL files contain all the parts you need to print.
+For each atom, print the sphere and the corresponding lids in the specified color (see the table below for details).
+Before placing the lid on the sphere, insert the appropriate magnet.
+Double and triple bonds are printed in two halves and joined using two connecting cylinders. If the fit is a bit loose you can adjust it by inserting a small piece of paper in between.
 
 **[ Magnet Type ]**
 
-By default the size of the neodymium magnets is 10x4 mm (a little bigger or smaller should be fine as well), however make sure to only use diametral magnetization type, otherwise some parts will repel each other instead of sticking together.
+When printing the models at the default size the neodymium magnets should be 10x4 mm (a little bigger or smaller should be fine as well), however make sure to only use diametral magnetization type, otherwise some parts will repel each other instead of sticking together.
 
 <img src="img/DiametralMagnet.jpg" width="300">
 
 **[ STL Files ]**
 
-In the STL folder you will find the required files for each type.
+The STL folder contains the required files for each component:
 
 | Element  | Color | Magnets | Parts |
 | -------- | ----- | ------- | ----- |
