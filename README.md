@@ -26,7 +26,7 @@ The <a href="STL">STL folder</a> contains the required files for each component:
 | Nitrogen | Blue  | 3       | 1+3   |
 | Carbon   | Black | 4       | 1+4   |
 
-<img src="img/Preview.png" width="500">
+<img src="img/Preview.png" width="400">
 
 **[ Demo video ]**
 
