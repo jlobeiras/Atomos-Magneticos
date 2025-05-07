@@ -26,7 +26,7 @@ The <a href="STL"> STL folder </a> contains the required files for each componen
 | Carbon   | Black | 4       | 1+4   |
 | d/t bond | Gray  | 2       | 2+2   |
 
-<img src="img/Preview.jpg" width="400">
+<img src="img/Preview.png" width="400">
 
 **[ Demo video ]**
 
