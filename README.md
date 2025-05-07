@@ -1,4 +1,4 @@
-# Modelo Atómico Magnético
+# Magnetic Atomic Model
 STL files for magnetic atoms educational resource
 
 <img src="img/AtomicModel.jpg" width="500">
