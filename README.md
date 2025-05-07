@@ -26,6 +26,7 @@ The STL folder contains the required files for each component:
 | Carbon   | Black | 4       | 1+4   |
 | d/t bond | Gray  | 2       | 2+2   |
 
+<img src="img/Preview.jpg" width="400">
 
 **[ Demo video ]**
 
