@@ -1,7 +1,7 @@
 # Modelo Atómico Magnético
 STL files for magnetic atoms educational resource
 
-<img src="img/ModeloAtomico.jpg" width="500">
+<img src="img/AtomicModel.jpg" width="500">
 
 The included STL files contain all the parts you have to print.
 For each atom you will have to print the sphere and the lids in the corresponding color (see table below for more details).
