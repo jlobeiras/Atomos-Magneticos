@@ -10,7 +10,7 @@ The double and triple bonds are printed in two halves and goined together by two
 
 **[ Magnet Type ]**
 
-By default the size of the neodymium magnets is 10x4 mm (a little bigger or smaller should be fine as well), however make sure to only use diametral magnetization, otherwise some parts will repel each other instead of sticking together.
+By default the size of the neodymium magnets is 10x4 mm (a little bigger or smaller should be fine as well), however make sure to only use diametral magnetization type, otherwise some parts will repel each other instead of sticking together.
 
 <img src="img/DiametralMagnet.jpg" width="300">
 
