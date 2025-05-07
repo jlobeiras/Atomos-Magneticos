@@ -16,7 +16,9 @@ When printing the models at the default size the neodymium magnets should be 10x
 
 **[ STL Files ]**
 
-The <a href="STL">STL folder</a> contains the required files for each component:
+The <a href="STL">STL folder</a> contains the required files for each component.
+When slicing the models it is recommended to print them individually using variable layer height.
+You can print the spheres on any of their flat sides. For the double/triple bond it is recommended to print them on the flat side as well for better results.
 
 | Element  | Color | Magnets | Parts |
 | -------- | ----- | ------- | ----- |
@@ -27,9 +29,6 @@ The <a href="STL">STL folder</a> contains the required files for each component:
 | Carbon   | Black | 4       | 1+4   |
 
 <img src="img/Preview.png" width="400">
-
-When slicing the models it is recommended to print them individually using variable layer height.
-You can print the spheres on any of their flat sides. For the double/triple bond it is recommended to print them on the flat side as well for better results.
 
 **[ Demo video ]**
 
