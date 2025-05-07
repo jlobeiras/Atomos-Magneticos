@@ -20,11 +20,11 @@ The <a href="STL"> STL folder </a> contains the required files for each componen
 
 | Element  | Color | Magnets | Parts |
 | -------- | ----- | ------- | ----- |
+| d/t bond | Gray  | 2       | 2+2   |
 | Hydrogen | White | 1       | 1+1   |
 | Oxygen   | Red   | 2       | 1+2   |
 | Nitrogen | Blue  | 3       | 1+3   |
 | Carbon   | Black | 4       | 1+4   |
-| d/t bond | Gray  | 2       | 2+2   |
 
 <img src="img/Preview.png" width="400">
 
