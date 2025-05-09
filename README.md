@@ -36,4 +36,4 @@ For the double/triple bond it is recommended to print them on the flat side for 
 
 Video showing the project and the instructions to create the magnetic atoms:
 
-https://www.youtube.com/watch?v=XXXXXXXX
+https://www.youtube.com/watch?v=MYqDkJZu09s
