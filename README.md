@@ -32,7 +32,7 @@ For the double/triple bond it is recommended to print them on the inner flat sid
 
 <img src="img/Preview.png" width="400">
 
-**[ Demo video ]**
+**[ Demo video ]** 
 
 Video showing the project and the instructions to create the magnetic atoms (in galician language):
 
